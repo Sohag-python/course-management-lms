@@ -1,2 +1,3 @@
-# course-management-lms
-it s my own system.i will try my best...
+# Course Management LMS
+
+A simple LMS with Django backend and React frontend.
